@@ -1,1 +1,1 @@
-console.log("frase teste")
+console.log('frase teste');
